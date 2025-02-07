@@ -1,3 +1,5 @@
+' Эльвин Ахмедов 08.02.2025
+
 Sub ReplaceCyrToLat()
     Dim ws As Worksheet
     Dim cell As Range
